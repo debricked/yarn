@@ -5,11 +5,14 @@
 "@angular-mdl/core@4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@angular-mdl/core/-/core-4.0.0.tgz#9415a3340cbeeac01739e5777971fec307b13c17"
+  integrity sha512-2HppM0e4XSLo3dlnDwTOspEKW9mDkwF44vy/2GaBfDokzTTO5SNAWRlcW37Jf7ax1/kIfL+el7LeJYiy08wHwQ==
 
 "@angular/core@2.4.9":
   version "2.4.9"
   resolved "https://registry.yarnpkg.com/@angular/core/-/core-2.4.9.tgz#85dca2afa4021be91512c97597702ac8d73092e6"
+  integrity sha512-nZZZrtj8xqfPSnOEU5zlSnxGuEd/bjBzCpV9bFAy6irYs2bilPd2N94/RsHt7EBDPQZP5BvYr0R7fye5WvDMvQ==
 
 left-pad@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/left-pad/-/left-pad-1.0.0.tgz#c84e2417581bbb8eaf2b9e3d7a122e572ab1af37"
+  integrity sha512-Xvly4CWfzT+7TGZRB2Qd7ub2dmJDomZCNf3BuT3XXfrNerQHtta82NNhbvToU4Qiz7IHrg21YB3UpL/6npCtmg==

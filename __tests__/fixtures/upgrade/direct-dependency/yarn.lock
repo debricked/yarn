@@ -5,9 +5,11 @@
 async@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/async/-/async-2.0.0.tgz#d0900ad385af13804540a109c42166e3ae7b2b9d"
+  integrity sha512-x4YEotAaoO+dq8o23H0Clqm+b0KQ7hYHFfqxIz4ORzLzAdwH0K7S5/Q+mDo/wVyGdFYA0l7XE70Y9915PuEyqg==
   dependencies:
     lodash "^4.8.0"
 
 lodash@^4.8.0:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
